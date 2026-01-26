@@ -1,0 +1,23 @@
+{
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/DesignSystem/DesignSystem.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Models/Models.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/GeminiService.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.swiftdeps"
+  }
+}

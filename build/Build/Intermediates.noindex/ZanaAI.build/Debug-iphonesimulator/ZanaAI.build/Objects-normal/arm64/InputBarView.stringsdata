@@ -1,0 +1,64 @@
+{
+  "source": "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/InputBarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Scan",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Mode",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "زیادکردنی ناوەڕۆک",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 151
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pinch to Zoom, Drag to Move",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 339
+        }
+      },
+      {
+        "comment": "",
+        "key": "Crop Image",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 285
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 282
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 288
+        }
+      }
+    ]
+  },
+  "version": 1
+}

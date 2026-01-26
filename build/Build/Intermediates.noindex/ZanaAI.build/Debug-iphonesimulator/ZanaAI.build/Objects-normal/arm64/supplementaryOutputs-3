@@ -1,0 +1,23 @@
+{
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/ViewModels/AppViewModel.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Auth/AuthView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/ChatView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.swiftdeps"
+  }
+}

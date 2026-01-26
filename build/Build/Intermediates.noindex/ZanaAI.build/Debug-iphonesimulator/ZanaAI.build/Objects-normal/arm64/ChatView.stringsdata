@@ -1,0 +1,32 @@
+{
+  "source": "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/ChatView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "You are offline. Some features may not work.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Zana AI ✨",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 229
+        }
+      },
+      {
+        "comment": "",
+        "key": "یاریدەدەری زیرەکی تۆ. پرسیار بکە، فێرببە، و داهێنان بکە 😊.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 233
+        }
+      }
+    ]
+  },
+  "version": 1
+}

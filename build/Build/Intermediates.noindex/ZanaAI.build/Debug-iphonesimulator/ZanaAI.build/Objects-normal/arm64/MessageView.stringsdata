@@ -1,0 +1,32 @@
+{
+  "source": "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/MessageView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "سەرچاوەکان:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Speak",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 123
+        }
+      }
+    ]
+  },
+  "version": 1
+}

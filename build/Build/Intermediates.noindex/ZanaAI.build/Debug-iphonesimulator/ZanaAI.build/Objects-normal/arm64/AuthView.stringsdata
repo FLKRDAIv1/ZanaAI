@@ -1,0 +1,40 @@
+{
+  "source": "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Auth/AuthView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Zana AI",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "SYSTEM ONLINE",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "دەستپێبکە",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Started",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 92
+        }
+      }
+    ]
+  },
+  "version": 1
+}

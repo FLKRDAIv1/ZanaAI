@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D874AED52F268C6B004D0FD0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D874AEBD2F268C69004D0FD0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D874AEC42F268C69004D0FD0;
+			remoteInfo = ZanaAI;
+		};
+		D874AEDF2F268C6B004D0FD0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D874AEBD2F268C69004D0FD0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D874AEC42F268C69004D0FD0;
+			remoteInfo = ZanaAI;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D874AEC52F268C69004D0FD0 /* ZanaAI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZanaAI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D874AED42F268C6B004D0FD0 /* ZanaAITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZanaAITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D874AEDE2F268C6B004D0FD0 /* ZanaAIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZanaAIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D874AEC72F268C69004D0FD0 /* ZanaAI */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ZanaAI;
+			sourceTree = "<group>";
+		};
+		D874AED72F268C6B004D0FD0 /* ZanaAITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ZanaAITests;
+			sourceTree = "<group>";
+		};
+		D874AEE12F268C6B004D0FD0 /* ZanaAIUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ZanaAIUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D874AEC22F268C69004D0FD0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D874AED12F268C6B004D0FD0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D874AEDB2F268C6B004D0FD0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D874AEBC2F268C69004D0FD0 = {
+			isa = PBXGroup;
+			children = (
+				D874AEC72F268C69004D0FD0 /* ZanaAI */,
+				D874AED72F268C6B004D0FD0 /* ZanaAITests */,
+				D874AEE12F268C6B004D0FD0 /* ZanaAIUITests */,
+				D874AEC62F268C69004D0FD0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D874AEC62F268C69004D0FD0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D874AEC52F268C69004D0FD0 /* ZanaAI.app */,
+				D874AED42F268C6B004D0FD0 /* ZanaAITests.xctest */,
+				D874AEDE2F268C6B004D0FD0 /* ZanaAIUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D874AEC42F268C69004D0FD0 /* ZanaAI */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D874AEE82F268C6B004D0FD0 /* Build configuration list for PBXNativeTarget "ZanaAI" */;
+			buildPhases = (
+				D874AEC12F268C69004D0FD0 /* Sources */,
+				D874AEC22F268C69004D0FD0 /* Frameworks */,
+				D874AEC32F268C69004D0FD0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D874AEC72F268C69004D0FD0 /* ZanaAI */,
+			);
+			name = ZanaAI;
+			packageProductDependencies = (
+			);
+			productName = ZanaAI;
+			productReference = D874AEC52F268C69004D0FD0 /* ZanaAI.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D874AED32F268C6B004D0FD0 /* ZanaAITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D874AEEB2F268C6B004D0FD0 /* Build configuration list for PBXNativeTarget "ZanaAITests" */;
+			buildPhases = (
+				D874AED02F268C6B004D0FD0 /* Sources */,
+				D874AED12F268C6B004D0FD0 /* Frameworks */,
+				D874AED22F268C6B004D0FD0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D874AED62F268C6B004D0FD0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D874AED72F268C6B004D0FD0 /* ZanaAITests */,
+			);
+			name = ZanaAITests;
+			packageProductDependencies = (
+			);
+			productName = ZanaAITests;
+			productReference = D874AED42F268C6B004D0FD0 /* ZanaAITests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D874AEDD2F268C6B004D0FD0 /* ZanaAIUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D874AEEE2F268C6B004D0FD0 /* Build configuration list for PBXNativeTarget "ZanaAIUITests" */;
+			buildPhases = (
+				D874AEDA2F268C6B004D0FD0 /* Sources */,
+				D874AEDB2F268C6B004D0FD0 /* Frameworks */,
+				D874AEDC2F268C6B004D0FD0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D874AEE02F268C6B004D0FD0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D874AEE12F268C6B004D0FD0 /* ZanaAIUITests */,
+			);
+			name = ZanaAIUITests;
+			packageProductDependencies = (
+			);
+			productName = ZanaAIUITests;
+			productReference = D874AEDE2F268C6B004D0FD0 /* ZanaAIUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D874AEBD2F268C69004D0FD0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					D874AEC42F268C69004D0FD0 = {
+						CreatedOnToolsVersion = 26.2;
+					};
+					D874AED32F268C6B004D0FD0 = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = D874AEC42F268C69004D0FD0;
+					};
+					D874AEDD2F268C6B004D0FD0 = {
+						CreatedOnToolsVersion = 26.2;
+						TestTargetID = D874AEC42F268C69004D0FD0;
+					};
+				};
+			};
+			buildConfigurationList = D874AEC02F268C69004D0FD0 /* Build configuration list for PBXProject "ZanaAI" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D874AEBC2F268C69004D0FD0;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D874AEC62F268C69004D0FD0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D874AEC42F268C69004D0FD0 /* ZanaAI */,
+				D874AED32F268C6B004D0FD0 /* ZanaAITests */,
+				D874AEDD2F268C6B004D0FD0 /* ZanaAIUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D874AEC32F268C69004D0FD0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D874AED22F268C6B004D0FD0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D874AEDC2F268C6B004D0FD0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D874AEC12F268C69004D0FD0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D874AED02F268C6B004D0FD0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D874AEDA2F268C6B004D0FD0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D874AED62F268C6B004D0FD0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D874AEC42F268C69004D0FD0 /* ZanaAI */;
+			targetProxy = D874AED52F268C6B004D0FD0 /* PBXContainerItemProxy */;
+		};
+		D874AEE02F268C6B004D0FD0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D874AEC42F268C69004D0FD0 /* ZanaAI */;
+			targetProxy = D874AEDF2F268C6B004D0FD0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D874AEE62F268C6B004D0FD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D874AEE72F268C6B004D0FD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D874AEE92F268C6B004D0FD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = ZanaAI/ZanaAI.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Zana AI پـێویستی بە بـراودانی شـوێنەکەت هەیە بـۆ نـیشاندانی نـەخشە و پـێدانی زانـیاری دەربـارەی شـوێنە گـشتییەکان.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Zana AI پـێویستی بە کـامێرا هەیە بـۆ گـرتنی وێـنە و شـیکردنەوەیان بـە هـۆی زیـرەکی دەسـتکردەوە.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Zana AI پـێویستی بە هـێشتنی وێـنەکانت هەیە بـۆ ئـەوەی بـتوانیت وێـنە بـنێریت بـۆ شـیکردنەوە.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Zana AI پـێویستی بە مـایکرۆفۆن هەیە بـۆ تـۆمارکردنی دەنگ و نـاردنی بـۆ زیـرەکی دەسـتکرد.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Zana AI پـێویستی بە نـاسینەوەی دەنگ هەیە بـۆ تـۆمارکردنی پـرسیارەکانت بـە دەنگ.";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flkrdstudio.zanaai;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D874AEEA2F268C6B004D0FD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = ZanaAI/ZanaAI.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Zana AI پـێویستی بە بـراودانی شـوێنەکەت هەیە بـۆ نـیشاندانی نـەخشە و پـێدانی زانـیاری دەربـارەی شـوێنە گـشتییەکان.";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Zana AI پـێویستی بە کـامێرا هەیە بـۆ گـرتنی وێـنە و شـیکردنەوەیان بـە هـۆی زیـرەکی دەسـتکردەوە.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Zana AI پـێویستی بە هـێشتنی وێـنەکانت هەیە بـۆ ئـەوەی بـتوانیت وێـنە بـنێریت بـۆ شـیکردنەوە.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Zana AI پـێویستی بە مـایکرۆفۆن هەیە بـۆ تـۆمارکردنی دەنگ و نـاردنی بـۆ زیـرەکی دەسـتکرد.";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Zana AI پـێویستی بە نـاسینەوەی دەنگ هەیە بـۆ تـۆمارکردنی پـرسیارەکانت بـە دەنگ.";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flkrdstudio.zanaai;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D874AEEC2F268C6B004D0FD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flkrdstudio.zanaaiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZanaAI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ZanaAI";
+			};
+			name = Debug;
+		};
+		D874AEED2F268C6B004D0FD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flkrdstudio.zanaaiTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZanaAI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ZanaAI";
+			};
+			name = Release;
+		};
+		D874AEEF2F268C6B004D0FD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flkrdstudio.zanaaiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ZanaAI;
+			};
+			name = Debug;
+		};
+		D874AEF02F268C6B004D0FD0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 2.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.flkrdstudio.zanaaiUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ZanaAI;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D874AEC02F268C69004D0FD0 /* Build configuration list for PBXProject "ZanaAI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D874AEE62F268C6B004D0FD0 /* Debug */,
+				D874AEE72F268C6B004D0FD0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D874AEE82F268C6B004D0FD0 /* Build configuration list for PBXNativeTarget "ZanaAI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D874AEE92F268C6B004D0FD0 /* Debug */,
+				D874AEEA2F268C6B004D0FD0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D874AEEB2F268C6B004D0FD0 /* Build configuration list for PBXNativeTarget "ZanaAITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D874AEEC2F268C6B004D0FD0 /* Debug */,
+				D874AEED2F268C6B004D0FD0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D874AEEE2F268C6B004D0FD0 /* Build configuration list for PBXNativeTarget "ZanaAIUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D874AEEF2F268C6B004D0FD0 /* Debug */,
+				D874AEF02F268C6B004D0FD0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D874AEBD2F268C69004D0FD0 /* Project object */;
+}

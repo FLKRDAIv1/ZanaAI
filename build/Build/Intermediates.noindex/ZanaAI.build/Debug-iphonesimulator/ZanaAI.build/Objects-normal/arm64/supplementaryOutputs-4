@@ -1,0 +1,23 @@
+{
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/CodeBlockView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/GraphView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/InputBarView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.swiftdeps"
+  }
+}

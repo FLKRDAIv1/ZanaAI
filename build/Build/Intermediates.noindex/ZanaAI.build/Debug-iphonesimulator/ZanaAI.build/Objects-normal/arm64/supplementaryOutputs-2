@@ -1,0 +1,23 @@
+{
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/KeyManager.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/NotificationManager.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/TTSService.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.dia",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.swiftdeps"
+  }
+}

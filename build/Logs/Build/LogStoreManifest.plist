@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>67326771-9A94-423B-812B-D55E2A85198D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67326771-9A94-423B-812B-D55E2A85198D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZanaAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZanaAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>791074951.10730696</real>
+			<key>timeStoppedRecording</key>
+			<real>791074956.04588997</real>
+			<key>title</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>67326771-9A94-423B-812B-D55E2A85198D</string>
+		</dict>
+		<key>6BB85EBC-5D17-4AD1-BB20-5A4257E63EA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6BB85EBC-5D17-4AD1-BB20-5A4257E63EA5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZanaAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZanaAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>791075172.35525799</real>
+			<key>timeStoppedRecording</key>
+			<real>791075181.56877995</real>
+			<key>title</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6BB85EBC-5D17-4AD1-BB20-5A4257E63EA5</string>
+		</dict>
+		<key>F083D88D-D103-49AD-B51F-DAFF7EDE8123</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F083D88D-D103-49AD-B51F-DAFF7EDE8123.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>12</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZanaAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZanaAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>791074788.98355103</real>
+			<key>timeStoppedRecording</key>
+			<real>791074840.83826494</real>
+			<key>title</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F083D88D-D103-49AD-B51F-DAFF7EDE8123</string>
+		</dict>
+		<key>F461FD95-D675-42DF-A0E2-835D1BDA490A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F461FD95-D675-42DF-A0E2-835D1BDA490A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZanaAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZanaAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>791075127.98813605</real>
+			<key>timeStoppedRecording</key>
+			<real>791075142.57335997</real>
+			<key>title</key>
+			<string>Building project ZanaAI with scheme ZanaAI and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F461FD95-D675-42DF-A0E2-835D1BDA490A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

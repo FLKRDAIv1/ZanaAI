@@ -1,0 +1,239 @@
+{
+  "" : {
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAI-primary.dia",
+    "emit-module-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAI-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAI-primary-emit-module.dia",
+    "pch" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAI-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAI-primary.swiftdeps"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/ContentView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/DesignSystem/DesignSystem.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/DesignSystem~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Item.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Models/Models.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/GeminiService.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeminiService~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/KeyManager.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/KeyManager~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/LocationManager.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/LocationManager~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/NotificationManager.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/NotificationManager~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Services/TTSService.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/TTSService~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/ViewModels/AppViewModel.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AppViewModel~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Auth/AuthView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/AuthView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Auth/PermissionView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/PermissionView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/ChatView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ChatView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/CodeBlockView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/CodeBlockView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/GraphView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GraphView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/InputBarView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/InputBarView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/MapEmbedView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MapEmbedView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/MessageView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/MessageView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Chat/ModeSelector.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ModeSelector~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Settings/SettingsView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Sidebar/SidebarView.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/SidebarView~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/ZanaAIApp.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/ZanaAIApp~partial.swiftmodule"
+  },
+  "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/build/Build/Intermediates.noindex/ZanaAI.build/Debug-iphonesimulator/ZanaAI.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

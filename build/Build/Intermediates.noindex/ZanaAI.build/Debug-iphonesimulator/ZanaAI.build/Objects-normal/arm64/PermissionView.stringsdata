@@ -1,0 +1,40 @@
+{
+  "source": "/Users/zanafaroqhado/Downloads/zana-ai (13)/ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Views/Auth/PermissionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "ڕێپێدانەکان",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "بۆ کارکردنی باشتر، زانا پێویستی بەم ڕێپێدانانەیە",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "هەموویان چالاک بکە",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "دواتر",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 73
+        }
+      }
+    ]
+  },
+  "version": 1
+}
