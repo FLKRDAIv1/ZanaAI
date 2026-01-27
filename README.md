@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="AppLogo" alt="zana_logo.png" width="140" height="auto" />
+  <img src="ZanaAI-iOS/zanaai/ZanaAI/ZanaAI/Assets.xcassets/AppLogo.imageset/zana_logo.png" alt="ZanaAI Logo" width="140" height="auto" />
   <h1>ZanaAI</h1>
   
   <p>
@@ -15,6 +15,16 @@
   [![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-orange?logo=swift&style=for-the-badge)](https://developer.apple.com/xcode/swiftui/)
   [![Model](https://img.shields.io/badge/Intelligence-Zana%20AI%20Model-8E75B2?style=for-the-badge)](https://zanaai.com)
   [![Studio](https://img.shields.io/badge/Studio-FLKRDSTUDIO-black?style=for-the-badge)](https://flkrdstudio.com)
+  [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://flkrdstudio.com)
+</div>
+
+<div align="center">
+  <h3>
+    <a href="#-architecture">Architecture</a> •
+    <a href="#-features">Features</a> •
+    <a href="#-installation">Installation</a> •
+    <a href="#-kurdish">Switch to Kurdish</a>
+  </h3>
 </div>
 
 ---
@@ -24,33 +34,122 @@
 # 🌍 English
 
 ## 🚀 Overview
-**ZanaAI** is a groundbreaking artificial intelligence assistant developed in Kurdistan, designed to provide a seamless, hyper-intelligent experience across web and mobile platforms. Built by **FLKRDSTUDIO**, ZanaAI features its own proprietary persona and adaptation layer, delivering accurate, culturally aware, and multimodal responses in Kurdish (Sorani) and other languages.
+**ZanaAI** is a groundbreaking artificial intelligence assistant developed in Kurdistan, designed to provide a seamless, hyper-intelligent experience across web and mobile platforms. Built by **FLKRDSTUDIO**, ZanaAI features its own proprietary persona and adaptation layer, delivering accurate, culturally aware, and multimodal responses.
 
-Whether you're coding, writing, or exploring complex topics, ZanaAI offers a premium, modern interface that feels effortless and futuristic on every device—from high-end desktops to the iPad Pro.
+> [!IMPORTANT]
+> **ZanaAI Reference Architecture**: This repository contains the source code for the ZanaAI client ecosystem, specifically tailored for high-performance interaction on iOS and Web.
+
+## 🏗 Architecture
+See how ZanaAI connects user interfaces with deep intelligence:
+
+```mermaid
+graph TD
+    User([User]) -->|Interacts| ClientLayer
+    
+    subgraph ClientLayer [Client Ecosystem]
+        Web[Web App (React/Vite)]
+        iOS[iOS App (SwiftUI)]
+        iPad[iPad/Tablet Mode]
+    end
+    
+    ClientLayer -->|Requests| NativeFeatures
+    
+    subgraph NativeFeatures [Device Capabilities]
+        Loc[Location Services]
+        Cam[Vision/Camera]
+        Voice[Speech Recognition]
+    end
+    
+    ClientLayer <-->|Secure Stream| ZanaBrain
+    
+    subgraph ZanaBrain [Zana AI Intelligence]
+        Persona[Persona Engine]
+        Reasoning[Deep Reasoning]
+        Knowledge[Knowledge Base]
+    end
+    
+    ZanaBrain -->|Response| User
+    
+    style ClientLayer fill:#f9f9f9,stroke:#333
+    style ZanaBrain fill:#e1f5fe,stroke:#0277bd
+```
+
+## 📂 Project Structure
+```text
+zana-ai/
+├── 📱 ZanaAI-iOS/          # Native Swift Application
+│   ├── ZanaAI/             # Main App target
+│   ├── ZanaWidget/         # Home Screen Widgets
+│   └── ZanaAITests/        # Unit & UI Tests
+├── 🌐 src/                 # Web Application Sources
+│   ├── components/         # React Components (UI)
+│   ├── services/           # AI & API Services
+│   └── lib/                # Utilities & Helpers
+├── 🎨 public/              # Static Assets & Icons
+└── ⚙️ package.json         # Web Dependencies
+```
 
 ## ✨ Key Features
-- **🧠 Zana AI Intelligence**: Powered by our custom-tuned Zana AI model, capable of deep reasoning, coding assistance, and creative writing with a unique professional persona.
-- **🎨 Premium UI/UX**: A stunning, glass-effect interface built with **Framer Motion** and **SwiftUI** for fluid animations and responsiveness.
-- **📱 Cross-Platform Ecosystem**:
-  - **Web**: Ultra-fast, responsive web application built with React 19.
-  - **iOS**: Native Swift application with iPad Pro support, Home Screen widgets, and deep system integration.
-- **📝 Advanced Content Rendering**: Full Markdown & LaTeX support for scientific communication and Interactive Data Visualization.
-- **📍 Smart Integration**: Native capabilities for Location services, Camera vision analysis, and real-time Voice interaction.
+| Feature | Description |
+| :--- | :--- |
+| **🧠 Zana Intelligence** | Custom-tuned model for coding, reasoning, and creative writing. |
+| **🎨 Glassmorphic UI** | Premium, translucent design system using **Framer Motion** & **SwiftUI**. |
+| **📱 Cross-Platform** | Seamless sync between **Web** (React 19) and **iOS** (iPhone/iPad). |
+| **📝 Rich Content** | Full **Markdown** & **LaTeX** support for scientific data. |
+| **📍 Smart Sense** | Integration with **Location**, **Camera**, and **Voice** APIs. |
 
-## 🛠 Tech Stack
-| Component | Technologies |
-|-----------|--------------|
-| **Web App** | React 19, Vite, TypeScript, Tailwind CSS, Framer Motion |
-| **iOS App** | Swift 5.0, SwiftUI, Combine, MVVM Architecture |
-| **Backend** | Zana AI Adaptive Engine, Google Gemini API (Base Layout) |
+<div id="installation"></div>
 
-## 👨‍💻 About The Creator
-**ZanaAI** is the brainchild of **Zana Farooq**, a visionary developer and engineer from **Mergasore, Kurdistan**. Even as a student, Zana has pushed the boundaries of what's possible in software engineering, combining a passion for AI with a deep commitment to user experience design.
+## 🏁 Getting Started
 
-### 🏢 FLKRDSTUDIO
-ZanaAI is proudly supported and developed by **Fast Learning Kurdish Studio (FLKRDSTUDIO)**. Our mission is to advance technology in Kurdistan and provide world-class software solutions that empower users to learn, create, and innovate.
+<details>
+<summary><h3>🌐 Web Development Setup (Click to Expand)</h3></summary>
 
-> *"I created ZanaAI to be more than just a chatbot. It is a companion for creativity and intelligence, built with love from Kurdistan for the world."* — **Zana Farooq**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/flkrdstudio/zana-ai.git
+   cd zana-ai
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Configure Environment**
+   Create a `.env.local` file:
+   ```env
+   VITE_API_KEY=your_key_here
+   ```
+
+4. **Run the Server**
+   ```bash
+   npm run dev
+   ```
+
+> [!TIP]
+> The web app runs on `localhost:5173` by default.
+</details>
+
+<details>
+<summary><h3>🍎 iOS Development Setup (Click to Expand)</h3></summary>
+
+1. **Open Xcode Project**
+   Navigate to `ZanaAI-iOS/` and open `ZanaAI.xcodeproj`.
+
+2. **Select Target**
+   Choose a Simulator (e.g., **iPad Pro (M4)**) or a real device.
+
+3. **Build & Run**
+   Press `Cmd + R`.
+
+> [!NOTE]
+> Ensure you have **Xcode 15+** installed for full Swift 5.10+ support.
+</details>
+
+## 👨‍💻 Creator & Studio
+**ZanaAI** is the vision of **Zana Farooq** from **Mergasore, Kurdistan**.
+Proudly powered by **FLKRDSTUDIO**.
 
 ---
 
@@ -60,33 +159,84 @@ ZanaAI is proudly supported and developed by **Fast Learning Kurdish Studio (FLK
 # 🇹🇯 کوردی
 
 ## 🚀 پوختە
-**ZanaAI** (زانا ئەی ئای) بریتییە لە یاریدەدەرێکی زیرەکی دەستکردی پێشکەوتوو کە لە کوردستان پەرەی پێدراوە، دیزاین کراوە بۆ پێشکەشکردنی ئەزموونێکی بێهاوتا لەسەر وێب و مۆبایل. ئەم پڕۆژەیە لەلایەن **FLKRDSTUDIO** دروستکراوە. زانا ئەی ئای خاوەنی کەسایەتی و سیستەمی تایبەت بە خۆیەتی، وەڵامی ورد و هۆشمەندانە بە زمانی کوردی (سۆرانی) و زمانەکانی تر پێشکەش دەکات.
+**ZanaAI** (زانا ئەی ئای) یەکەمین یاریدەدەری زیرەکی دەستکردی ئاست-بەرزە لە کوردستان، کە لەلایەن **FLKRDSTUDIO** پەرەی پێدراوە. خاوەنی کەسایەتی سەربەخۆ و توانای شیکارکردنی وردە بە زمانی کوردی (سۆرانی) و زمانی ئینگلیزی.
 
-جا تۆ خەریکی کۆد نووسینیت، نووسین دەنووسیت، یان بەدوای زانیاری نوێدا دەگەڕێیت، زانا ئەی ئای ئەزموونێکی مۆدێرن و سەرنجڕاکێشت بۆ دابین دەکات لەسەر هەموو ئامێرەکانت، لە کۆمپیوتەرەوە تا ئایپاد پرۆ.
+> [!IMPORTANT]
+> **ژیریی تایبەت**: زانا ئەی ئای تەنها وەرگێڕ نییە؛ سیستەمێکە توانای بیرکردنەوە و شیکارکردنی هەیە بە گوێرەی کولتوور و زمانی کوردی.
+
+## 🏗 نەخشەی سیستەم (Architecture)
+
+```mermaid
+graph TD
+    User([بەکارهێنەر]) -->|فەرمان دەدات| ClientLayer
+    
+    subgraph ClientLayer [ئەپڵیکەیشنەکان]
+        Web[وێب ئەپ (React)]
+        iOS[ئەپی ئایفۆن/ئایپاد]
+    end
+    
+    ClientLayer -->|داواکاری دەنێرێت| ZanaBrain
+    
+    subgraph ZanaBrain [مێشکی زانا ئەی ئای]
+        Persona[کەسایەتی]
+        Reasoning[شیکارکردن]
+        Kurdish[زانیاری کوردی]
+    end
+    
+    ZanaBrain -->|وەڵامی زیرەک| User
+    
+    style ClientLayer fill:#fff3e0,stroke:#ff9800
+    style ZanaBrain fill:#e8f5e9,stroke:#4caf50
+```
 
 ## ✨ تایبەتمەندییە سەرەکییەکان
-- **🧠 ژیریی زانا ئەی ئای**: بەهێزکراوە بە مۆدێلی تایبەتی زانا ئەی ئای، کە توانای شیکارکردنی ورد، یارمەتیدانی کۆدین، و نووسینی داهێنەرانەی هەیە.
-- **� دیزاینی پریمیەم**: ڕووکارێکی شووشەیی (Glassmorphism) سەرنجڕاکێش کە بە **Framer Motion** و **SwiftUI** دروستکراوە بۆ جووڵەی نەرم و خێرا.
-- **📱 سیستەمی فرە-پلاتفۆڕم**:
-  - **وێب**: ئەپڵیکەیشنێکی خێرا و کارا بە React 19.
-  - **iOS**: ئەپڵیکەیشنی ڕەسەن (Native) بۆ ئایفۆن و ئایپاد، لەگەڵ پشتیوانی ویجێت.
-- **📝 نیشاندانی ناوەڕۆکی دەوڵەمەند**: پشتیوانی تەواو بۆ Markdown و LaTeX بۆ هاوکێشە زانستییەکان و گرافیکی داتا.
-- **📍 زیرەکیی تێکەڵاو**: توانای بەکارهێنانی شوێن (Location)، کامێرا بۆ شیکردنەوەی وێنە، و دەنگ بۆ گفتوگۆی ڕاستەوخۆ.
+| تایبەتمەندی | وەسف |
+| :--- | :--- |
+| **🧠 ژیریی زانا** | مۆدێلی تایبەت بۆ کۆدین، نووسین، و شیکارکردن. |
+| **🎨 دیزاینی شووشەیی** | دیزاینێکی مۆدێرن و سەرنجڕاکێش بە **SwiftUI**. |
+| **📱 هەموو ئامێرێک** | کاردەکات لەسەر وێب، ئایفۆن، و ئایپاد پرۆ. |
+| **📝 زانست و داتا** | پشتیوانی تەواو بۆ هاوکێشەی بیرکاری (**LaTeX**) و خشتە. |
+| **📍 هەستەوەری زیرەک** | بەکارهێنانی جی پی ئێس، کامێرا، و دەنگ. |
 
-## 🛠 تەکنەلۆژیاکان
-| بەش | تەکنەلۆژیاکان |
-|-----------|--------------|
-| **وێب** | React 19, Vite, TypeScript, Tailwind CSS, Framer Motion |
-| **iOS** | Swift 5.0, SwiftUI, Combine, MVVM Architecture |
-| **ژێرخان** | Zana AI Adaptive Engine, Google Gemini API (Base Layout) |
+## 🏁 دەستپێکردن
+
+<details>
+<summary><h3>🌐 دامەزراندنی وێب (لێرە داگرە)</h3></summary>
+
+1. **داگرتنی پڕۆژە**
+   ```bash
+   git clone https://github.com/flkrdstudio/zana-ai.git
+   ```
+
+2. **دابەزاندنی پێداویستییەکان**
+   ```bash
+   npm install
+   ```
+
+3. **کارپێکردن**
+   ```bash
+   npm run dev
+   ```
+</details>
+
+<details>
+<summary><h3>🍎 دامەزراندنی iOS (لێرە داگرە)</h3></summary>
+
+1. **کردنەوەی پڕۆژە**
+   فایلی `ZanaAI.xcodeproj` لە ڕێگەی **Xcode** بکەرەوە.
+
+2. **هەڵبژاردنی ئامێر**
+   سیمولەیتەرێک هەڵبژێرە (وەک **iPad Pro**) یان مۆبایلەکەی خۆت.
+
+3. **کارپێکردن**
+   دوگمەی `Cmd + R` دابگرە.
+</details>
 
 ## 👨‍💻 دەربارەی دروستکەر
-**ZanaAI** بەرهەمی هزری **زانا فارووق**ـە، ئەندازیار و گەشەپێدەرێکی لێهاتوو لە **مێرگەسۆر، کوردستان**. هەرچەندە هێشتا خوێندکارە، زانا سنوورەکانی تەکنەلۆژیای تێپەڕاندووە بە تێکەڵکردنی خولیای زیرەکی دەستکرد لەگەڵ دیزاینی ئەزموونی بەکارهێنەر.
+**ZanaAI** بەرهەمی هزری **زانا فارووق**ـە، ئەندازیار و گەشەپێدەر لە **مێرگەسۆر، کوردستان**.
+بە شانازییەوە لەلایەن **FLKRDSTUDIO** پەرەی پێدەدرێت.
 
-### 🏢 FLKRDSTUDIO
-زانا ئەی ئای بە شانازییەوە لەلایەن **Fast Learning Kurdish Studio (FLKRDSTUDIO)** پەرەی پێدەدرێت و پشتیوانی دەکرێت. ئامانجی ئێمە پێشخستنی تەکنەلۆژیایە لە کوردستان و دابینکردنی چارەسەری سۆفتوێری جیهانییە.
-
-> *"من زانا ئەی ئایم دروستکرد بۆ ئەوەی تەنها چاتبۆتێک نەبێت، بەڵکو ببێتە هاوڕێیەک بۆ داهێنان و زیرەکی. بە خۆشەویستییەوە لە کوردستانەوە بۆ جیهان دروستکراوە."* — **زانا فارووق**
+> *"لە کوردستانەوە... بۆ جیهان."*
 
 </div>
 
