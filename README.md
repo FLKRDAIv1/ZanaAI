@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="AppLogo" alt="ZanaAI Logo" width="140" height="auto" />
+  <img src="AppLogo" alt="ZanaAI/Assets.xcassets/AppLogo.imageset/zana_logo.png" width="140" height="auto" />
   <h1>ZanaAI</h1>
   
   <p>
