@@ -47,9 +47,9 @@ graph TD
     User([User]) -->|Interacts| ClientLayer
     
     subgraph ClientLayer [Client Ecosystem]
-        Web[Web App (React/Vite)]
-        iOS[iOS App (SwiftUI)]
-        iPad[iPad/Tablet Mode]
+        Web["Web App (React/Vite)"]
+        iOS["iOS App (SwiftUI)"]
+        iPad["iPad/Tablet Mode"]
     end
     
     ClientLayer -->|Requests| NativeFeatures
@@ -171,8 +171,8 @@ graph TD
     User([بەکارهێنەر]) -->|فەرمان دەدات| ClientLayer
     
     subgraph ClientLayer [ئەپڵیکەیشنەکان]
-        Web[وێب ئەپ (React)]
-        iOS[ئەپی ئایفۆن/ئایپاد]
+        Web["وێب ئەپ (React)"]
+        iOS["ئەپی ئایفۆن/ئایپاد"]
     end
     
     ClientLayer -->|داواکاری دەنێرێت| ZanaBrain
