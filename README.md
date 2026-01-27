@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="zana-icon-1769363328729-Photoroom.png" alt="ZanaAI Logo" width="140" height="auto" />
+  <img src="https://imgur.com/HQckTFk" alt="ZanaAI Logo" width="140" height="auto" />
   <h1>ZanaAI</h1>
   
   <p>
