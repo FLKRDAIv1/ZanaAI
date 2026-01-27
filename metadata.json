@@ -1,0 +1,9 @@
+{
+  "name": "Zana AI",
+  "description": "A sleek, conversational AI chat application with multimodal capabilities, inspired by modern mobile UI design. It features user authentication and provides an intuitive interface for interacting with the Gemini AI model.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
