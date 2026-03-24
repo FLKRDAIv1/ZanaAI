@@ -13,9 +13,9 @@
   
   [![React](https://img.shields.io/badge/React-19-blue?logo=react&style=for-the-badge)](https://react.dev/)
   [![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-orange?logo=swift&style=for-the-badge)](https://developer.apple.com/xcode/swiftui/)
-  [![Model](https://img.shields.io/badge/Intelligence-Zana%20AI%20Model-8E75B2?style=for-the-badge)](https://zanaai.com)
-  [![Studio](https://img.shields.io/badge/Studio-FLKRDSTUDIO-black?style=for-the-badge)](https://flkrdstudio.com)
-  [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://flkrdstudio.com)
+  [![Model](https://img.shields.io/badge/Intelligence-Zana%20AI%20Model-8E75B2?style=for-the-badge)](flkrdstudio.netlify.app)
+  [![Studio](https://img.shields.io/badge/Studio-FLKRDSTUDIO-black?style=for-the-badge)](https://flkrdstudio.netlify.app)
+  [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://flkrdstudio.netlify.app)
 </div>
 
 <div align="center">
